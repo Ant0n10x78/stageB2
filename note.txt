@@ -1,0 +1,3 @@
+#####27/08/2021
+Faire attention à bien modifier les variables pour le SCSS et/ou les classes CSS.
+#####
